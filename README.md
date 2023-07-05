@@ -17,5 +17,6 @@
 
 ### 📱 Quer entrar em contato comigo?
 
-[![EMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kahuanvitelli@gmail.com) 
+[![EMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kahuanvitelli@gmail.com) 
 [![LINKEDI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kahuan-vitelli/)
+
