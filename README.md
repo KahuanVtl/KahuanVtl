@@ -1,16 +1,20 @@
-### Hi there 👋
+### Bem vindo ao perfil!
 
-<!--
-**KahuanVtl/KahuanVtl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤵 Me chamo Kahuan Vitelli 
 
-Here are some ideas to get you started:
+👨‍💻 Sou Dev. e estudante há 1 ano!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍🎓 Graduando ADS em Unisinos.
+
+💻 Meu foco atualmente está em Fullstack
+
+<div>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KahuanVtl&show_icons=true&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KahuanVtl&layout=compact&theme=tokyonight"/>
+  
+</div>
+
+### 📱 Quer entrar em contato comigo?
+
+[![EMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kahuanvitelli@gmail.com) 
