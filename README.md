@@ -2,11 +2,11 @@
 
 🤵 My name is Kahuan Vitelli
 
-👨‍💻 I'm Dev. and technology student for 1 year!
+👨‍💻 I'm Dev. and technology student for 2 years!
 
 👨‍🎓 Graduating ADS in Unisinos.
 
-💻 My focus is currently on Fullstack
+💻 My focus is currently on BackEnd / DevOps
 
 <div>
 
