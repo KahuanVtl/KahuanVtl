@@ -1,4 +1,4 @@
-### Welcome to my Github Profile!
+## Welcome to my Github Profile!
 
 🤵 My name is Kahuan Vitelli
 
@@ -15,7 +15,7 @@
   
 </div>
 
-### 📱 Let's get connected:
+## 📱 Let's get connected:
 
 [![EMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kahuanvitelli@gmail.com) 
 [![LINKEDI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kahuan-vitelli/)
@@ -24,9 +24,9 @@
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/_kahuan/)
 
-### Technologies & Tools I use:
+## Technologies & Tools I use:
 
-## Development Tools & Frameworks:
+### Development Tools & Frameworks:
 <div>
   <img align="center" alt="Kahuan-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Kahuan-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -38,7 +38,7 @@
   <img align="center" alt="Kahuan-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
-## Cloud & Version Control:
+### Cloud & Version Control:
 <div>
   <img align="center" alt="Kahuan-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Kahuan-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
@@ -48,7 +48,7 @@
   <img align="center" alt="Kahuan-powershell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg">
 </div>
 
-## Databases Tools:
+### Databases Tools:
 <div>
   <img align="center" alt="Kahuan-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Kahuan-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
