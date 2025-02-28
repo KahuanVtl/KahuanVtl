@@ -2,7 +2,7 @@
 
 🤵 My name is Kahuan Vitelli
 
-👨‍💻 I'm Dev. and technology student for 2 years!
+👨‍💻 I'm Dev. and technology student for 3+ years!
 
 👨‍🎓 Graduating ADS in Unisinos.
 
